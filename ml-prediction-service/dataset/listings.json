@@ -1,0 +1,22 @@
+[
+  {"listing_id": "1", "title": "Gaming PC RTX 3080", "description": "High end gaming PC", "price": 1200, "category": "electronics"},
+  {"listing_id": "2", "title": "Gaming PC RTX 3080", "description": "Used but good", "price": 1150, "category": "electronics"},
+  {"listing_id": "3", "title": "RTX 3070 Gaming Computer", "description": "Powerful PC", "price": 900, "category": "electronics"},
+  {"listing_id": "4", "title": "Cheap RTX 3070 PC", "description": "Needs to go", "price": 850, "category": "electronics"},
+  {"listing_id": "5", "title": "iPhone 15 Pro Max", "description": "Apple Phone", "price": 1100, "category": "apple"},
+  {"listing_id": "6", "title": "iPhone 15 Pro Max 256GB", "description": "Unlocked", "price": 1050, "category": "apple"},
+  {"listing_id": "7", "title": "Milwaukee M18 Drill Set", "description": "Power tools", "price": 200, "category": "tools"},
+  {"listing_id": "8", "title": "Milwaukee Fuel Drill", "description": "Brushless", "price": 180, "category": "tools"},
+  {"listing_id": "9", "title": "MacBook Pro M2 14 inch", "description": "Laptop", "price": 1800, "category": "apple"},
+  {"listing_id": "10", "title": "M2 MacBook Pro", "description": "Lightly used", "price": 1750, "category": "apple"},
+  {"listing_id": "11", "title": "Gaming PC RTX 3080 ti", "description": "Ultra high end", "price": 1300, "category": "electronics"},
+  {"listing_id": "12", "title": "RTX 3080 Desktop", "description": "Serious gaming", "price": 1180, "category": "electronics"},
+  {"listing_id": "13", "title": "iPhone 14 base model", "description": "Good condition", "price": 500, "category": "apple"},
+  {"listing_id": "14", "title": "iPhone 14 Black", "description": "128gb", "price": 480, "category": "apple"},
+  {"listing_id": "15", "title": "DeWalt 20V Drill", "description": "Yellow power tool", "price": 150, "category": "tools"},
+  {"listing_id": "16", "title": "DeWalt Impact Driver", "description": "Strong", "price": 140, "category": "tools"},
+  {"listing_id": "17", "title": "Gaming Laptop RTX 4060", "description": "Portable power", "price": 1000, "category": "electronics"},
+  {"listing_id": "18", "title": "ASUS Gaming Laptop", "description": "RTX 4060 inside", "price": 950, "category": "electronics"},
+  {"listing_id": "19", "title": "Sony WH-1000XM5", "description": "Noise cancelling headphones", "price": 300, "category": "electronics"},
+  {"listing_id": "20", "title": "Sony XM5 Headphones", "description": "Like new", "price": 280, "category": "electronics"}
+]

@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "ArbiScanner",
+  "version": "1.0",
+  "description": "Automatically extracts and logs Facebook Marketplace listing information.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "alarms",
+    "notifications",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://www.facebook.com/marketplace/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/marketplace/*"],
+      "js": ["utils.js", "keywordDictionary.js", "imageExtractor.js", "imageDetectionClient.js", "predictionClient.js", "dealDetector.js", "uiHighlighter.js", "content.js"]
+
+
+    }
+  ],
+  "action": {
+    "default_title": "ArbiScanner"
+  }
+}
